@@ -1,10 +1,11 @@
-# Hi, I'm Gregory Perozzo
+## Hello
 
-**Senior Full-stack Engineer** focused on building scalable web platforms, cloud-native applications, and business-oriented software solutions.
+👋 I’m Gregory Perozzo  
+💻 Senior Full-stack Engineer  
+⚙️ I build cloud-native platforms with .NET, Angular, Azure, and SQL Server<br>
+⚓ 15+ years of experience building real-world software solutions
 
-I work mainly with **.NET**, **Angular**, **Azure**, and **SQL Server**, combining back-end architecture, front-end development, cloud deployment, and product thinking to deliver complete software solutions.
-
-> “A smooth sea never made a skilled sailor.”
+> “A smooth sea never made a skilled sailor.
 
 ---
 
