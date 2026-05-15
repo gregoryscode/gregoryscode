@@ -1,7 +1,7 @@
 ## Hello
 
 👋 I’m Gregory Perozzo  
-💻 Senior Full-stack Engineer  
+💻 Senior Full-stack Software Engineer  
 ⚙️ I build cloud-native platforms with .NET, Angular, Azure, and SQL Server<br>
 ⚓ 15+ years of experience building real-world software solutions
 
