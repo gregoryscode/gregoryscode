@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm a software engineer with 14+ years of experience designing, developing, and maintaining real-world systems for businesses, startups, and government-related operations.
+I'm a software engineer with 15+ years of experience designing, developing, and maintaining real-world systems for businesses, startups, and government-related operations.
 
 My work usually involves turning complex business rules into reliable platforms, building APIs, creating modern front-end experiences, improving performance, and helping products evolve from idea to production.
 
