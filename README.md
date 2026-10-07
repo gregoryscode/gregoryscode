@@ -29,6 +29,7 @@ I enjoy working close to the product and business side of software, especially w
     <td><strong>Front-end</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,6 +40,7 @@ I enjoy working close to the product and business side of software, especially w
     <td><strong>Database</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-F9FAFB?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MzkgNDM5Ij48cGF0aCBmaWxsPSIjZjNmM2YzIiBkPSJNMCAwaDQzOXY0MzlIMHoiLz48cGF0aCBmaWxsPSIjRjM1MzI1IiBkPSJNMTcgMTdoMTk0djE5NEgxN3oiLz48cGF0aCBmaWxsPSIjODFCQzA2IiBkPSJNMjI4IDE3aDE5NHYxOTRIMjI4eiIvPjxwYXRoIGZpbGw9IiMwNUE2RjAiIGQ9Ik0xNyAyMjhoMTk0djE5NEgxN3oiLz48cGF0aCBmaWxsPSIjRkZCQTA4IiBkPSJNMjI4IDIyOGgxOTR2MTk0SDIyOHoiLz48L3N2Zz4%3D&fontColor=B71C1C" alt="Microsoft SQL Server" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
